@@ -1,0 +1,6 @@
+{
+  "goal": "Write a daily recap for NVDA, MSFT, VOO",
+  "output": "report.md",
+  "constraints": ["read-only", "no trades", "free data only"],
+  "done_when": "report has all sections and passes checks"
+}

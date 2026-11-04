@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+report.md
+trace.jsonl
+receipt.json
+*.tmp
+.DS_Store
+.sh_probe
